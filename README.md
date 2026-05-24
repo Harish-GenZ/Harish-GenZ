@@ -15,7 +15,7 @@ Building scalable AI-powered systems, intelligent automation platforms, and coll
 
 </div>
 
----
+
 
 ## 💻 System Status
 
@@ -29,7 +29,7 @@ Building scalable AI-powered systems, intelligent automation platforms, and coll
 
 </div>
 
----
+
 
 ## 🎮 AI Interactive Zone
 
@@ -45,7 +45,7 @@ Building scalable AI-powered systems, intelligent automation platforms, and coll
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -86,7 +86,7 @@ Building scalable AI-powered systems, intelligent automation platforms, and coll
 
 </div>
 
----
+
 
 ## 🏆 Featured Projects
 
@@ -122,7 +122,7 @@ Smart attendance and management ecosystem focused on intelligent tracking, autom
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -134,7 +134,7 @@ Smart attendance and management ecosystem focused on intelligent tracking, autom
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
 </p>
 
----
+
 
 ### 🎨 Frontend Development
 
@@ -142,7 +142,7 @@ Smart attendance and management ecosystem focused on intelligent tracking, autom
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
----
+
 
 ### ⚙️ Backend Development
 
@@ -150,7 +150,7 @@ Smart attendance and management ecosystem focused on intelligent tracking, autom
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
 </p>
 
----
+
 
 ### 🤖 AI / ML Technologies
 
@@ -164,7 +164,7 @@ Smart attendance and management ecosystem focused on intelligent tracking, autom
 <img src="https://img.shields.io/badge/LLM%20Systems-6C63FF?style=for-the-badge" />
 </p>
 
----
+
 
 ### 🗄️ Databases & Tools
 
