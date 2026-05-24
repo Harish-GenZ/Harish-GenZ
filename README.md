@@ -11,7 +11,7 @@ Building scalable AI-powered systems, intelligent automation platforms, and coll
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+About+Automation+%26+Innovation;Exploring+Collaborative+AI+Platforms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+About+Automation+%26+Innovation;Exploring+Collaborative+AI+Platforms;TonyStark's+Fanboy" />
 
 </div>
 
