@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/balaharish-alais-yogesh-n-95a277305/](LinkedIn page)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/balaharish-alais-yogesh-n-95a277305/] (LinkedIn page)
 
 - 📫 How to reach me **balah8986@gmail.com**
 
