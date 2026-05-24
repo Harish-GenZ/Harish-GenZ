@@ -1,20 +1,276 @@
-<h1 align="center">Hi 👋, I'm BALAHARISH ALAIS YOGESH</h1>
-<h3 align="center">AI ENGINEER at India</h3>
+<h1 align="center">Hi 👋, I'm BALAHARISH NATARAJAN</h1>
 
-- 🔭 I’m currently working on **RenewPing**
-
-- 🌱 I’m currently learning **AI frameworks,GIT,N8N,AI Agents**
-
-- 👯 I’m looking to collaborate on **AI Projects**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/balaharish-alais-yogesh-n-95a277305/] (LinkedIn page)
-
-- 📫 How to reach me **balah8986@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harishx_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishx_13" height="30" width="40" /></a>
+<h3 align="center">
+AI Engineer • Full Stack Developer • AI Systems Architect
+</h3>
+<p align="center">
+Building scalable AI-powered systems, intelligent automation platforms, and collaborative developer ecosystems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Scalable+AI+Systems;Passionate+About+Automation+%26+Innovation;Exploring+Collaborative+AI+Platforms" />
+
+</div>
+
+---
+
+## 💻 System Status
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20AI%20SYSTEMS-00C2FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20ARCHITECTURES-111827?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CURRENTLY-EXPLORING%20AI%20AGENTS-6C63FF?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🎮 AI Interactive Zone
+
+<div align="center">
+
+### 🚀 Play My AI AUCTION Game
+
+<a href="https://auction-app-delta.vercel.app/" target="AUCTION APP">
+
+<img src="https://img.shields.io/badge/🎮%20Launch%20AI%20Game-00C2FF?style=for-the-badge&logo=gamejolt&logoColor=white" />
+
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 AI Engineer & System Builder
+
+- 🔭 Currently building **RenewPing**
+- 🧠 Passionate about scalable AI systems
+- ⚡ Strong interest in AI Architecture & Automation
+- 🚀 Focused on production-grade AI products
+- 💡 Exploring collaborative developer ecosystems
+- 🏆 First Prize Winner — Technovision 2026
+- 🌍 Building impactful AI solutions for real-world problems
+
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+- Advanced AI Frameworks
+- AI Agents & Multi-Agent Systems
+- Distributed AI Architectures
+- N8N Automations
+- Cloud-Native AI Infrastructure
+- Real-Time Collaborative Platforms
+- Advanced Git & CI/CD Workflows
+- AI SaaS Product Engineering
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔹 RenewPing
+
+AI-powered intelligent renewal automation platform with scalable backend systems and notification architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔹 InsiderWatch
+
+AI-driven insider threat detection system designed for enterprise-level monitoring and security intelligence.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔹 AttendifyX
+
+Smart attendance and management ecosystem focused on intelligent tracking, automation workflows, and scalable architecture.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+</p>
+
+---
+
+### 🤖 AI / ML Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Systems-6C63FF?style=for-the-badge" />
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,figma,postman" />
+</p>
+
+</div>
+
+
+
+## 📈 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🚀 AI Products
+
+Building scalable AI SaaS applications and intelligent platforms.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝 Collaborative Systems
+
+Exploring real-time collaborative development ecosystems.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 AI Architecture
+
+Designing production-grade AI infrastructures and pipelines.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Automation
+
+Creating smart automation workflows and AI-powered agents.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/balaharish-alais-yogesh-n-95a277305/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/harishx_13" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="mailto:balah8986@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+## 🧠 Philosophy
+
+<div align="center">
+
+> ### "Build systems. Solve problems. Scale intelligently."
+
+</div>
+
+## 📡 AI Activity Dashboard
+
+<div align="center">
+
+| System | Status |
+|---|---|
+| AI Pipelines | 🟢 Active |
+| Automation Workflows | 🟢 Running |
+| Collaborative IDE Research | 🟡 In Progress |
+| AI Agent Systems | 🟢 Exploring |
+| Scalable Backend Architectures | 🟢 Building |
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Harish-GenZ&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
