@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BALAHARISH NATARAJAN</h1>
+<h1 align="center">Hi, I'm BALAHARISH ALAIS YOGESH</h1>
 
 <h3 align="center">
 AI Engineer • Full Stack Developer • AI Systems Architect
